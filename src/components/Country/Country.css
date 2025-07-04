@@ -1,16 +1,38 @@
 .country{
-    border: 2px solid lawngreen;
+    border: 2px solid rgb(174, 255, 0);
     margin: 15px;
     padding: 15px;
     border-radius: 10px;
-    background-color: black;
+    background-color: rgba(39, 4, 8, 0.951);
     /* width: 360px; */
 }
 
 .countryName{
+    
     border: 1px solid rgb(0, 251, 255);
     margin: 12px;
     padding: 14px;
     border-radius: 8px;
     background-color: rgba(105, 3, 139, 0.792);
+}
+.capital{
+    border: 1px solid rgb(212, 255, 0);
+    margin: 12px;
+    padding: 6px;
+    border-radius: 4px;
+  
+}
+.region{
+    border: 1px solid rgb(212, 255, 0);
+    margin: 12px;
+    padding: 6px;
+border-radius: 4px;
+}
+.population{
+    margin-top: 10px;
+    border: 1px solid rgb(0, 251, 255);
+    margin: 12px;
+    padding: 14px;
+    border-radius: 8px;
+    background-color: rgba(44, 90, 6, 0.792);
 }

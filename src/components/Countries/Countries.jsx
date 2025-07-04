@@ -14,7 +14,7 @@ return (
         <h2>Countries : {countries.length}</h2>
         {
          countries.map(country =><Country
-            key={country.population} country={country}></Country> )
+            key={country.population.region} country={country}></Country> )
         }
     </div>
 );
