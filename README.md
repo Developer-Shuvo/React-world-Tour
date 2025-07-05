@@ -1,4 +1,5 @@
 ## 250 Countries information here
+## Collect data from API and then those organize my own thinking
 
 
 
