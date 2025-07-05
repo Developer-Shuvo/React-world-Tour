@@ -4,6 +4,7 @@
 1. How to Collect Data
 2. How to Dynamically show in browser
 3. How to Use Props, Use State, Use Effect
+4. Visited & Going Button added and working it
 
 
 
